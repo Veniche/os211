@@ -3,3 +3,10 @@
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
 ZCZC W00 10 L03 GitHub related
+ZCZC W00 100 L02 ZOOM related
+ZCZC W00 35 L06 Reading W00 slide
+ZCZC W00 12 L01 SCELE related
+ZCZC W00 23 L05 GSGS related
+ZCZC W00 7 L23 Discord: discussion
+ZCZC W00 22 L10 Assignment Pop Quizzes
+ZCZC W00 63 L26 Movie: relax, etc.
