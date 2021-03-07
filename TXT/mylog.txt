@@ -10,3 +10,12 @@ ZCZC W00 23 L05 GSGS related
 ZCZC W00 7 L23 Discord: discussion
 ZCZC W00 22 L10 Assignment Pop Quizzes
 ZCZC W00 63 L26 Movie: relax, etc.
+ZCZC W01 40 L03 GitHub related
+ZCZC W01 100 L02 ZOOM related
+ZCZC W01 15 SCELE related
+ZCZC W01 50 L06 Reading W01 slide
+ZCZC W01 140 L05 GSGS related
+ZCZC W01 10 L23 Discord: discussion
+ZCZC W01 110 L11 Assignment #1
+ZCZC W01 90 L21 VirtualBox: install GNU/Linux, etc.
+ZCZC W01 30 L06 Reading References/Books/Documents
