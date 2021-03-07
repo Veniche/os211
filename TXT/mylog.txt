@@ -19,3 +19,6 @@ ZCZC W01 10 L23 Discord: discussion
 ZCZC W01 110 L11 Assignment #1
 ZCZC W01 90 L21 VirtualBox: install GNU/Linux, etc.
 ZCZC W01 30 L06 Reading References/Books/Documents
+ZCZC W01 90 L26 Movie: relax, etc.
+ZCZC W01 60 L22 YouTube: study, etc.
+ZCZC W01 30 L09 AsDos: asking, etc.
