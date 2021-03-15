@@ -15,10 +15,10 @@ echo "sha256sum -c $SHA"
 sha256sum -c $SHA
 
 echo "gpg -o $SHA.asc -a -sb $SHA"
-gpg -o $SHA.asc -a -sb $SHA
+sudo gpg -o $SHA.asc -a -sb $SHA
 
 echo "gpg --verify $SHA.asc $SHA"
-gpg --verify $SHA.asc $SHA
+sudo gpg --verify $SHA.asc $SHA
 
 exit 0
 
