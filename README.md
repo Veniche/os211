@@ -5,9 +5,9 @@ Hello!
 This is OS211 and I am Brian Christian.
 
 [repo](https://github.com/Veniche/os211)<br>
-[LOG](https://veniche.github.io/os211/TXT/mylog.txt)
-[rank](https://veniche.github.io/os211/TXT/myrank.txt)
-[key](https://veniche.github.io/os211/TXT/mypubkey.txt)
+[LOG](https://veniche.github.io/os211/TXT/mylog.txt)<br>
+[rank](https://veniche.github.io/os211/TXT/myrank.txt)<br>
+[key](https://veniche.github.io/os211/TXT/mypubkey.txt)<br>
 
 Assignments
 
